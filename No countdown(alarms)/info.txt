@@ -1,0 +1,4 @@
+name = Alarms dont reach 0
+author = inthecatsdreams
+description = This mod stops the alarm coundown at 60 seconds, allowing you to relax :D
+tags=Tool

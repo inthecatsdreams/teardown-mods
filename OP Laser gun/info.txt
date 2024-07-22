@@ -1,0 +1,18 @@
+en_name = OP Laser Gun
+ru_name = Лазерная пушка
+de_name = OP Laserkanone
+es_name = Pistola láser OP
+it_name = Pistola laser OP
+fr_name = Pistolet laser OP
+jp_name = レーザーガン OP
+pl_name = Karabin laserowy OP
+sc_name = 激光枪 OP
+
+author = inthecatsdreams
+
+en_description = It's the laser gun but REALLY OP and it also doesn't set things on fire.
+
+
+tags = Tool
+
+preview_image = preview.jpg
