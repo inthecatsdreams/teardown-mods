@@ -1,11 +1,6 @@
 enabled = false
 -- 0.030 ---
 function tick(dt)
-	if PauseMenuButton("Respawn") then
-		RespawnPlayer()
-	else	
-	SetPlayerHealth(1)
-	end
 	if InputPressed("m") then
 		enabled = true
 	elseif InputPressed("x") then
@@ -20,9 +15,6 @@ function update(dt)
 	if enabled then
 		SetPlayerHealth(1)
 	end
-
-
-		
 end
 
 function draw()
