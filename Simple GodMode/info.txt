@@ -1,0 +1,4 @@
+name = Simple GodMode
+author = inthecatsdreams
+description = This mod gives you GodMode by pressing a key: M to enable X to disable
+tags = Tool, Gameplay, Assest
